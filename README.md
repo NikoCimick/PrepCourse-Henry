@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-repositorio creado para el curso de henry
+Prueba de como crear un repositorio desde git hub y clonarlo a mi escritorio
